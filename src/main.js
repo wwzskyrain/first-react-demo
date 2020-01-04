@@ -12,5 +12,9 @@ ReactDom.render(
     <h4>
         昨日如梦!
     </h4>
+    <br></br>
+    <div id = "poem">
+        小楼昨夜又东风，故国不堪回首明月中。
+    </div>
     </div>
     , document.getElementById("myContainer"));
